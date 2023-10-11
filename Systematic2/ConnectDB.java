@@ -33,11 +33,11 @@ public class ConnectDB  {
 
  
 
-         connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/urs",
+         connection = DriverManager.getConnection("mypath",
 
  
 
-            "root", "Lajibolala@1607");
+            "root", "");
 
  
 
